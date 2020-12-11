@@ -1,22 +1,22 @@
-,county,Pop18_24,over_25_HS_grad_or_higher,18_24_less_HS_HSgrad,18_24_associate_bachelor,over_25_less_than_HS,Pop_over25,Hs_and_less,Hs_and_more,Population,%Hs_and_less
-1,"Atlantic County, New Jersey",24683,160782,9754,14929,22710,183492,32464,175711,208175,84.4
-2,"Bergen County, New Jersey",74163,614966,23791,50372,46763,661729,70554,665338,735892,90.4
-3,"Burlington County, New Jersey",36899,297585,16483,20416,18706,316291,35189,318001,353190,90.0
-4,"Camden County, New Jersey",41040,315138,18797,22243,36288,351426,55085,337381,392466,86.0
-5,"Cape May County, New Jersey",6132,65427,3399,2733,4530,69957,7929,68160,76089,89.6
-6,"Cumberland County, New Jersey",11270,83405,6306,4964,19296,102701,25602,88369,113971,77.5
-7,"Essex County, New Jersey",69333,469019,32059,37274,71245,540264,103304,506293,609597,83.1
-8,"Gloucester County, New Jersey",25981,188357,8571,17410,14199,202556,22770,205767,228537,90.0
-9,"Hudson County, New Jersey",52068,414752,18414,33654,69044,483796,87458,448406,535864,83.7
-10,"Hunterdon County, New Jersey",9882,85578,4480,5402,5199,90777,9679,90980,100659,90.4
-11,"Mercer County, New Jersey",41153,220328,13037,28116,27887,248215,40924,248444,289368,85.9
-12,"Middlesex County, New Jersey",76973,506264,26503,50470,63377,569641,89880,556734,646614,86.1
-13,"Monmouth County, New Jersey",49925,416223,17222,32703,23044,439267,40266,448926,489192,91.8
-14,"Morris County, New Jersey",41892,329541,15156,26736,17933,347474,33089,356277,389366,91.5
-15,"Ocean County, New Jersey",43993,387077,16012,27981,29426,416503,45438,415058,460496,90.1
-16,"Passaic County, New Jersey",48205,285611,26053,22152,48992,334603,75045,307763,382808,80.4
-17,"Salem County, New Jersey",5015,38801,1626,3389,5440,44241,7066,42190,49256,85.7
-18,"Somerset County, New Jersey",27734,217673,9386,18348,12770,230443,22156,236021,258177,91.4
-19,"Sussex County, New Jersey",11404,96107,4783,6621,5731,101838,10514,102728,113242,90.7
-20,"Union County, New Jersey",46439,327864,17470,28969,51989,379853,69459,356833,426292,83.7
-21,"Warren County, New Jersey",8753,71112,3013,5740,5050,76162,8063,76852,84915,90.5
+,county,Hs_and_less,Hs_and_more,%Hs_and_less,%Hs_and_more
+1,"Atlantic County, New Jersey",32464,175711,15.6,84.4
+2,"Bergen County, New Jersey",70554,665338,9.6,90.4
+3,"Burlington County, New Jersey",35189,318001,10.0,90.0
+4,"Camden County, New Jersey",55085,337381,14.0,86.0
+5,"Cape May County, New Jersey",7929,68160,10.4,89.6
+6,"Cumberland County, New Jersey",25602,88369,22.5,77.5
+7,"Essex County, New Jersey",103304,506293,16.9,83.1
+8,"Gloucester County, New Jersey",22770,205767,10.0,90.0
+9,"Hudson County, New Jersey",87458,448406,16.3,83.7
+10,"Hunterdon County, New Jersey",9679,90980,9.6,90.4
+11,"Mercer County, New Jersey",40924,248444,14.1,85.9
+12,"Middlesex County, New Jersey",89880,556734,13.9,86.1
+13,"Monmouth County, New Jersey",40266,448926,8.2,91.8
+14,"Morris County, New Jersey",33089,356277,8.5,91.5
+15,"Ocean County, New Jersey",45438,415058,9.9,90.1
+16,"Passaic County, New Jersey",75045,307763,19.6,80.4
+17,"Salem County, New Jersey",7066,42190,14.3,85.7
+18,"Somerset County, New Jersey",22156,236021,8.6,91.4
+19,"Sussex County, New Jersey",10514,102728,9.3,90.7
+20,"Union County, New Jersey",69459,356833,16.3,83.7
+21,"Warren County, New Jersey",8063,76852,9.5,90.5
